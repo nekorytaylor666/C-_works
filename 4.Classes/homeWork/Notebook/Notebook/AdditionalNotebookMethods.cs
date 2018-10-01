@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace Notebook
 {
     public partial class Notebook
